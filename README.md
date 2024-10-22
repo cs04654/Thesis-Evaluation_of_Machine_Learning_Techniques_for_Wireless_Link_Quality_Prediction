@@ -1,4 +1,4 @@
-# Thesis-Evaluation_of_Machine_Learning_Techniques_for_Wireless_Link_Quality_Prediction
+# Evaluation_of_Machine_Learning_Techniques_for_Wireless_Link_Quality_Prediction
 
 Indoor MIMO-OFDM Communication Link Using Ray Tracing simulation is used to extract the data. (Info for simulation: ( https://www.mathworks.com/help/comm/ug/indoor-mimo-ofdm-communication-link-using-ray-tracing.html))
 
